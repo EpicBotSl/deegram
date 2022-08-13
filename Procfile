@@ -1,1 +1,1 @@
-worker: python3 -m deegram
+worker: python3 deegram
